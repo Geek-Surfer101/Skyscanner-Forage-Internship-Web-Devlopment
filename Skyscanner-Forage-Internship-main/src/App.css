@@ -1,0 +1,19 @@
+.App {
+	text-align: center;
+}
+
+.App__header {
+	padding: 32px;
+	background: linear-gradient(90deg, #0770e3, #00b2d6);
+	color: white;
+}
+
+.App__main {
+	padding: 40px;
+}
+
+.calendar-wrapper {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 24px;
+}
